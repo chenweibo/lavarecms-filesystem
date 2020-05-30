@@ -1,6 +1,6 @@
 {
     "name": "chenweibo/laravelcmsfile",
-    "description": ":package_description",
+    "description": "The laravelcms extension package is used for file operations",
     "license": "MIT",
     "authors": [
         {
