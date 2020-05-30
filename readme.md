@@ -14,6 +14,12 @@ Via Composer
 ``` bash
 $ composer require chenweibo/laravelcmsfile
 ```
+and publish the assets using command:
+
+``` bash
+$ php artisan vendor:publish --provider=chenweibo\LaravelCmsFile\LaravelCmsFileServiceProvider
+
+```
 
 ## Usage
 
